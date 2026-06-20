@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body background="color.jpg">
+    <p align = "center">
+       <b>My name is Alyona</b><br>
+    </p>
+    <p>
+        This is image of my family <br>
+        <image src="family.jpg" width="400" height="300" alt="familyyyyy photo"
+    </p>
+</body>
+</html>
